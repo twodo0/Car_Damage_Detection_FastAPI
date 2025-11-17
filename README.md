@@ -4,14 +4,6 @@ YOLO + ViT 기반 차량 손상 탐지용 FastAPI 서버입니다.
 Spring 백엔드에서 렌탈 배치 플로우 호출용으로 사용합니다.
 
 ---
-
-##   요구 사항
-
-- Python 3.11+
-- (선택) CUDA / MPS – GPU, Apple Silicon 가속용
-
----
-
 ##   셋업
 
 ### 1. 의존성 설치
