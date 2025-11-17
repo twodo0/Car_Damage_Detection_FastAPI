@@ -1,0 +1,23 @@
+# FastAPI
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+pydantic==2.5.3
+
+# HTTP client
+httpx==0.26.0
+
+# Image processing
+Pillow==10.2.0
+opencv-python==4.9.0.80
+
+# Deep learning
+torch==2.1.2
+torchvision==0.16.2
+transformers==4.36.2
+
+# YOLO
+ultralytics==8.1.0
+
+# Utilities
+numpy==1.26.3
+python-multipart==0.0.6
